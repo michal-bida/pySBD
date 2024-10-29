@@ -14,7 +14,7 @@ class Czech(Common, Standard):
     Based on slovak.py language as the languages are very close.
     """
 
-    iso_code = 'cz'
+    iso_code = 'cs'
 
     class ListItemReplacer(ListItemReplacer):
 

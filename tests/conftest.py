@@ -149,5 +149,5 @@ def sk_default_fixture():
 
 @pytest.fixture()
 def cz_default_fixture():
-    cz_segmenter = pysbd.Segmenter(language="cz", clean=False, char_span=False)
+    cz_segmenter = pysbd.Segmenter(language="cs", clean=False, char_span=False)
     return cz_segmenter

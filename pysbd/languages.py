@@ -48,7 +48,7 @@ LANGUAGE_CODES = {
     'de': Deutsch,
     'kk': Kazakh,
     'sk': Slovak,
-    'cz': Czech
+    'cs': Czech
 }
 
 
